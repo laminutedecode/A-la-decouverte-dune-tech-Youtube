@@ -31,18 +31,5 @@ Ce repository regroupe les fichiers sources des épisodes de la série **À la d
 9. **React-email** - [Création d'emails avec React Email](./09.React-email)  
    - Dans cet épisode, nous mettons en place des email et testons l'envoi avec React-Email.
 
-
-## Installation
-
-Pour cloner le repository et installer les dépendances, exécutez les commandes suivantes :
-
-```bash
-git clone https://github.com/votre-utilisateur/A-la-decouverte-dune-tech-Youtube
-cd votre-repo
-npm install
-Contribution
-Les contributions sont les bienvenues ! Si vous souhaitez ajouter une nouvelle technologie ou améliorer un épisode existant, n'hésitez pas à soumettre une pull request.
-```
-
 ## License
 Ce projet est sous la licence MIT. 
