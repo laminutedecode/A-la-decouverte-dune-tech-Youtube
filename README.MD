@@ -23,13 +23,13 @@ Ce repository regroupe les fichiers sources des épisodes de la série **À la d
    - Cet épisode introduit Kinde, une autre solution d'authentification pour Next.js.
 
 7. **Yup** - [Validation avec Yup](./07.Yup)  
-  - Dans cet épisode, nous mettons en place des validations de formulaire avec Yup dans une application Next.js.
+   - Dans cet épisode, nous mettons en place des validations de formulaire avec Yup dans une application Next.js.
 
 8. **Howler.JS** - [Utilisation de Howler.js pour le son](./08.Howler.JS)  
-  - Comment intégrer et utiliser Howler.js pour ajouter des effets sonores et de la musique à une application Next.js.
+   - Comment intégrer et utiliser Howler.js pour ajouter des effets sonores et de la musique à une application Next.js.
 
 9. **React-email** - [Création d'emails avec React Email](./09.React-email)  
- - Dans cet épisode, nous mettons en place des email et testons l'envoi avec React-Email.
+   - Dans cet épisode, nous mettons en place des email et testons l'envoi avec React-Email.
 
 
 ## Installation
