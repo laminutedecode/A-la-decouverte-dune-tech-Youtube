@@ -30,6 +30,9 @@ Ce repository regroupe les fichiers sources des épisodes de la série **À la d
 
 9. **React-email** - [Création d'emails avec React Email](./09.React-email)  
    - Dans cet épisode, nous mettons en place des email et testons l'envoi avec React-Email.
+  
+10. **Prisa & TanstackQuery ** - [Crud avec Prisma et Tanstack query](./10.Prisma)  
+   - Dans cet épisode, nous mettons en place le CRUD avec Prisma et Tanstack Query.
 
 ## License
 Ce projet est sous la licence MIT. 
